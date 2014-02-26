@@ -8,5 +8,6 @@ set number
 set autoindent
 set omnifunc=syntaxcomplete#Complete
 set noswapfile
+set ruler
 
 autocmd BufNewFile,BufRead *.dox set filetype=cpp.doxygen
