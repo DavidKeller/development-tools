@@ -1,0 +1,13 @@
+[user]
+	name = David Keller
+	email = david.keller@litchis.fr
+[push]
+	default = simple
+[sendemail]
+    smtpEncryption = tls
+    smtpServer = smtp.gmail.com
+    smtpUser = david.keller@litchis.fr
+    smtpServerPort = 587
+[diff]
+	renames = true
+	algorithm = patience
